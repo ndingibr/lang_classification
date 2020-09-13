@@ -21,7 +21,7 @@ Instructions on how to run the solution
 
 --for production code---
 
-6. To run the program and see the agent training
+6. To run the program 
 
 	python train.py
 	
